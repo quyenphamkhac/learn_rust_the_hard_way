@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./ch07_packages_crates_modules/restaurant/Cargo.toml"
+  ]
+}
